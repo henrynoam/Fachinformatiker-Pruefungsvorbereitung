@@ -8,8 +8,8 @@ description: "Mithilfe des Lastenheftes und des Pflichtenheftes können Anforder
 
 ## Lastenheft
 
-- Enthält Vorderungen eines Auftraggebers an den Auftragnehmer
-- Eingesetzt im Qualitäts oder Projektmanagement
+- Enthält Forderungen eines Auftraggebers an den Auftragnehmer
+- Eingesetzt im Qualitäts- oder Projektmanagement
 - Grobe Idee
 
 ### Inhalte eines Lastenhefts
