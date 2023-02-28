@@ -10,5 +10,5 @@ Beide Beteiligten der Verhandlung erzielen einen Nutzen.
 Die Interessen beider Beteiligten werden berücksichtigt.
 Jeder Verhandlungspartner respektiert seinen Gegenüber.
 
-Die Strategie ist auf eher langfristigen nachhaltigen Erfolg und auf langfristige Zugsamenarbeit als auf
+Die Strategie ist auf eher langfristigen nachhaltigen Erfolg und auf langfristige Zusammenarbeit als auf
 kurzfristigen Gewinn ausgerichtet.
