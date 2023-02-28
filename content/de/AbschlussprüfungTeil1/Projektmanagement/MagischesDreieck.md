@@ -7,3 +7,6 @@ description: "Das Magische-Dreieck beschreibt die wichtigsten Kenngrößen des P
 ---
 
 Das Magische-Dreieck besteht aus den Punkten **Qualität**, **Kosten** und **Zeit**. Dies sind die wichtigsten Kenngrößen im Projektmanagement.
+
+## Erklärungsvideo 📹
+{{< youtube QRJloxSFVK0 >}}
